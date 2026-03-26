@@ -1,4 +1,4 @@
-# RuyiRepo Issues 行为准则 Code of Conduct
+# RuyiRepo Issues | 行为准则 / Code of Conduct
 
 在本仓库中进行任何贡献前，请确保已阅读并理解下列内容：
 

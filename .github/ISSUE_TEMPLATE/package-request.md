@@ -2,7 +2,7 @@
 name: Package Request / 软件包请求
 about: Suggest adding new packages / 建议新增软件包
 title: ''
-labels: task
+labels: enhancement
 assignees: CannedFish
 type: Task
 
