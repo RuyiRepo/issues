@@ -42,9 +42,9 @@ Regardless of whether the above actions are taken, RuyiRepo may report the incid
 
 ## 申诉 Appeal
 
-如果您认为受到了不合适的处理，请向 support AT isrc DOT iscas DOT ac DOT cn 发送邮件说明情况。
+如果您认为受到了不合适的处理，请向 support.ruyirepo AT isrc DOT iscas DOT ac DOT cn 发送邮件说明情况。
 
-If you believe you have been subjected to inappropriate handling, please send an email to support AT isrc DOT iscas DOT ac DOT cn to explain the situation.
+If you believe you have been subjected to inappropriate handling, please send an email to support.ruyirepo AT isrc DOT iscas DOT ac DOT cn to explain the situation.
 
 ## 延伸阅读 Further Reading
 
