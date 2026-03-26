@@ -1,6 +1,6 @@
 ---
-name: Bug Report
-about: Create a report to help us improve
+name: Bug Report / 故障报告
+about: Create a report to help us improve / 创建故障报告帮助我们改进
 title: ''
 labels: bug
 assignees: CannedFish

@@ -2,8 +2,7 @@
 
 [点此提交 Issue](https://github.com/RuyiRepo/issues/issues/new/choose)
 
-- Mirror Request / 镜像请求
-- Unblock Request / 解封请求
+- Package Request / 软件包请求
 - Bug Report / 故障报告
 - Others / 其他事项
 
