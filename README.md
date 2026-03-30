@@ -1,4 +1,4 @@
-# RuyiRepo Issues
+# [RuyiRepo](https://github.com/RuyiRepo/ruyirepo) Issues
 
 [点此提交 Issue](https://github.com/RuyiRepo/issues/issues/new/choose)
 
