@@ -1,18 +1,16 @@
+[中文](./README.zh.md) | [English](./README.md)
+
 # [RuyiRepo](https://github.com/RuyiRepo/ruyirepo) Issues
 
-[点此提交 Issue](https://github.com/RuyiRepo/issues/issues/new/choose)
+[Click here to submit an issue](https://github.com/RuyiRepo/issues/issues/new/choose)
 
-- Package Request / 软件包请求
-- Bug Report / 故障报告
-- Others / 其他事项
+- Package Request
+- Bug Report
+- Others
 
-在本仓库中进行任何贡献之前，请确保您已经阅读并接受[行为准则](https://github.com/RuyiRepo/issues/blob/main/CODE_OF_CONDUCT.md)，并参照[贡献指南](https://github.com/RuyiRepo/issues/blob/main/CONTRIBUTING.md)书写内容。
+Before you make any contribution in this repository, make sure that you have read and accepted our [Code of Conduct](./CODE_OF_CONDUCT.md), you are also expected to conform to our [Contribution Guide](./CONTRIBUTING.md).
 
-Before you make any contribution in this repository, make sure that you have read and accepted our [Code of Conduct](https://github.com/RuyiRepo/issues/blob/main/CODE_OF_CONDUCT.md), you are also expected to conform to our [Contribution Guide](https://github.com/RuyiRepo/issues/blob/main/CONTRIBUTING.md).
-
-## 致谢 Acknowledgments
-
-本仓库在建设时借鉴了 [TUNA](https://github.com/tuna/issues) 社区的成熟经验，特此感谢
+## Acknowledgments
 
 The establishment of this repository has drawn on the mature experience of the [TUNA](https://github.com/tuna/issues) community. We hereby express our gratitude.
 
